@@ -1,22 +1,13 @@
+::-moz-selection {
+	background: #b3d4fc;
+	text-shadow: none;
+}
 
+::selection {
+	background: #b3d4fc;
+	text-shadow: none;
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.navbar-inverse .form-control {
+	border-color: #333;
+}
