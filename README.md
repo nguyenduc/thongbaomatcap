@@ -1,4 +1,4 @@
-Mã nguồn thongbaomatcap.info 
+﻿Mã nguồn thongbaomatcap.info 
 ====================
 Đây là kho lưu trữ của dự án web xã hội Thongbaomatcap.info.
 
@@ -12,7 +12,7 @@ Hiện tại đang trong giai đoạn đầu phát triển, vì vậy công vi�
 
 Cài đặt
 ---------------------
-Clone mã nguồn hiện tại về local, hoặc download tại [đây](https://github.com/anhsaker/thongbaomatcap/archive/master.zip). Giải nén, đưa thư mục lên server.
+Clone mã nguồn hiện tại về local, hoặc download tại [đây](https://github.com/nguyenduc/thongbaomatcap/archive/master.zip). Giải nén, đưa thư mục lên server.
 
 Sử dụng
 ---------------------
@@ -83,3 +83,4 @@ $data = $this->input->input('post')->except(array('captcha', 'csrf_token'));
 Giấy phép
 ---------------------
 Chúng tôi sử dụng giấy phép của [CodeIgniter](https://github.com/anhsaker/thongbaomatcap/blob/master/license.txt)
+
